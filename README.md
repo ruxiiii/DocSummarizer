@@ -1,0 +1,2 @@
+# DocSummarizer
+Document Summarization App 
