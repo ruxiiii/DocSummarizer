@@ -1,6 +1,6 @@
 # DocSummarizer
 
-LaMini-LM-Summarization-Streamlit-App
+LaMini-LM-Summarization-Streamlit-App.
 This is a document summarization app powered by LLM (Language Model). The app allows users to upload PDF files and generate summaries of the document contents using the LLM model.
 
 
