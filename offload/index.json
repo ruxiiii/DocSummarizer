@@ -1,0 +1,110 @@
+{
+  "decoder.block.11.layer.0.SelfAttention.q.weight": {
+    "dtype": "float32",
+    "shape": [
+      768,
+      768
+    ]
+  },
+  "decoder.block.11.layer.0.SelfAttention.k.weight": {
+    "dtype": "float32",
+    "shape": [
+      768,
+      768
+    ]
+  },
+  "decoder.block.11.layer.0.SelfAttention.v.weight": {
+    "dtype": "float32",
+    "shape": [
+      768,
+      768
+    ]
+  },
+  "decoder.block.11.layer.0.SelfAttention.o.weight": {
+    "dtype": "float32",
+    "shape": [
+      768,
+      768
+    ]
+  },
+  "decoder.block.11.layer.0.layer_norm.weight": {
+    "dtype": "float32",
+    "shape": [
+      768
+    ]
+  },
+  "decoder.block.11.layer.1.EncDecAttention.q.weight": {
+    "dtype": "float32",
+    "shape": [
+      768,
+      768
+    ]
+  },
+  "decoder.block.11.layer.1.EncDecAttention.k.weight": {
+    "dtype": "float32",
+    "shape": [
+      768,
+      768
+    ]
+  },
+  "decoder.block.11.layer.1.EncDecAttention.v.weight": {
+    "dtype": "float32",
+    "shape": [
+      768,
+      768
+    ]
+  },
+  "decoder.block.11.layer.1.EncDecAttention.o.weight": {
+    "dtype": "float32",
+    "shape": [
+      768,
+      768
+    ]
+  },
+  "decoder.block.11.layer.1.layer_norm.weight": {
+    "dtype": "float32",
+    "shape": [
+      768
+    ]
+  },
+  "decoder.block.11.layer.2.DenseReluDense.wi_0.weight": {
+    "dtype": "float32",
+    "shape": [
+      2048,
+      768
+    ]
+  },
+  "decoder.block.11.layer.2.DenseReluDense.wi_1.weight": {
+    "dtype": "float32",
+    "shape": [
+      2048,
+      768
+    ]
+  },
+  "decoder.block.11.layer.2.DenseReluDense.wo.weight": {
+    "dtype": "float32",
+    "shape": [
+      768,
+      2048
+    ]
+  },
+  "decoder.block.11.layer.2.layer_norm.weight": {
+    "dtype": "float32",
+    "shape": [
+      768
+    ]
+  },
+  "decoder.final_layer_norm.weight": {
+    "dtype": "float32",
+    "shape": [
+      768
+    ]
+  },
+  "lm_head.weight": {
+    "dtype": "float32",
+    "shape": [
+      32128,
+      768
+    ]
+  }
+}
