@@ -11,7 +11,7 @@ This is a document summarization app powered by LLM (Language Model). The app al
 - LLM-based summarization pipeline
 - Display of uploaded PDF file and generated summary
 
-# Installation
+## Installation
 
 1. Clone the repository:
 
